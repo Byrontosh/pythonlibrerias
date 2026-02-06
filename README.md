@@ -1,2 +1,1 @@
-# pythonlibrerias
-# Uso de github
+texto copai de readme.so
